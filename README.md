@@ -1,2 +1,2 @@
-# blog
-See [https://highlightjs.org/](https://highlightjs.org/)
+# ブログ用のファイル置き場
+- [highlight.js](https://highlightjs.org/)
